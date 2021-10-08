@@ -43,4 +43,4 @@ PT90_jobspersqkm - (PTRANS90 / PTRANS90SQKM)<br>
 ratio_5m_pt60 - ratio of PTRANS60 to 3mile<br>
 IMD19<br>
 SIMD20<br>
-overall_access_score - weighted average job count, combingin driving and public transport
+overall_access_score - weighted average job count, combining driving and public transport
